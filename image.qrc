@@ -1,0 +1,61 @@
+<RCC>
+    <qresource prefix="/tower">
+        <file>images/choose1.png</file>
+        <file>images/choose2.png</file>
+        <file>images/tower2.png</file>
+        <file>images/tower1.png</file>
+        <file>images/remove.png</file>
+        <file>images/level_up.png</file>
+    </qresource>
+    <qresource prefix="/stage">
+        <file>images/map1.png</file>
+        <file>images/map2.png</file>
+        <file>images/map3.png</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>images/cho_bg.png</file>
+        <file>images/main_bg.jpg</file>
+        <file>images/map1_cho.png</file>
+        <file>images/map1_cho_move.png</file>
+        <file>images/map2_cho.png</file>
+        <file>images/map2_cho_move.png</file>
+        <file>images/map3_cho.png</file>
+        <file>images/map3_cho_move.png</file>
+        <file>images/choose_button_move.png</file>
+        <file>images/choose_button_normal.png</file>
+    </qresource>
+    <qresource prefix="/monster">
+        <file>images/monster1.png</file>
+        <file>images/monster2.png</file>
+        <file>images/monster3.png</file>
+        <file>images/monster4.png</file>
+        <file>images/monster5.png</file>
+    </qresource>
+    <qresource prefix="/shipin">
+        <file>images/CarrotDefense.mp4</file>
+    </qresource>
+    <qresource prefix="/extra">
+        <file>images/go.png</file>
+        <file>images/bullet1.png</file>
+        <file>images/carrot.gif</file>
+        <file>images/hp5.png</file>
+        <file>images/bullet2.png</file>
+    </qresource>
+    <qresource prefix="/health">
+        <file>images/hp5.png</file>
+        <file>images/hp1.png</file>
+        <file>images/hp2.png</file>
+        <file>images/hp3.png</file>
+        <file>images/hp4.png</file>
+    </qresource>
+    <qresource prefix="/end">
+        <file>images/continue.jpg</file>
+        <file>images/lose.jpg</file>
+        <file>images/remake.jpg</file>
+        <file>images/return.jpg</file>
+        <file>images/win.jpg</file>
+    </qresource>
+    <qresource prefix="/money">
+        <file>images/money.png</file>
+    </qresource>
+</RCC>
